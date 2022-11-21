@@ -1,3 +1,3 @@
 # pizza-2
 
-arquivo bem pica de pizzaria somente front end ainda
+Web site de uma pizzaria feito em HTML e CSS
